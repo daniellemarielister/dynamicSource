@@ -1,12 +1,8 @@
-# 3screens_assignment1
+# Dynamic Source - Assignment 3
 
-## Welcome to the Drunken Goat Resturant App!
-This app feature a landing page -'Home.js' which features the logo and Drunken Goat and branding colors. From there you can navigate the view the menu (<-like food) menu (<-like navigation>) page -'Details.js'. From their you can select which menu you'd like to view including Brekkie - 'Brekkie.js', Nourishments - 'Nourishments.js' and potions - 'potions.js'. There is a button for table booking which currently available.
-
-## Why I went with Stack Navigation?
-    1. Wanted the user to be forced to walk the through all the pages
-    2. Since it's a pretty simple app i thought drawer nagivation or tab navigation weren't necisary.
-    3. If the app would be developed further i would add drawer nagivation or tab navigation after the initial page to offer bookings and food orders.
+## Welcome to the Horoscope Daily app!
+The app gets user's to sign up with their basic info including their birthday. It converts your birthday into your horoscope sign
+to deliver the user their "daily" (if the db was updated daily) horoscope! 
 
 ## Start cli instructions
     To run the app using expo...
@@ -25,7 +21,7 @@ This app feature a landing page -'Home.js' which features the logo and Drunken G
 
 ## Installation cli instructions
     1. locate the folder by using 'cd' -
-        ex)user@user  % cd  drunkenGoat
+        ex)user@user  % cd  zodiac
 
     2. To install dependencies from 'package.json'. 
         In your commandline run:
